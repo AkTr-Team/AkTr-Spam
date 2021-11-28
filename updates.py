@@ -13,3 +13,8 @@ os.system("'#comandos'")
 os.system('#comandos')
 
 os.system('git pull')
+
+
+print('PRONTO, VERIFICAÇÃO DE ATUALIZAÇÃO FINALIZADA.')
+
+#BY AKTR
