@@ -14,6 +14,8 @@ os.system('rm -rf #comandos')
 
 os.system('rm -rf git pull')
 
+os.system('clear')
+
 print('PRONTO, VERIFICAÇÃO DE ATUALIZAÇÃO FINALIZADA.')
 
 #BY AKTR:)
