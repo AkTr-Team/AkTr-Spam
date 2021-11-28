@@ -1,0 +1,7 @@
+pkg install git -y
+pkg install python -y
+git clone https://github.com/AkTr-Team/AkTr-Spam/
+cd AkTr-Spam
+unzip AkTr-Spam
+#fique dando y ate acabar (caso peça)
+python3 spam.py
