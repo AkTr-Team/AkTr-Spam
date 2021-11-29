@@ -1,6 +1,8 @@
 import os
 
-os.system('rm -rf agradecimentos.py')
+#removendo os unzips pra atualizar
+#relaxa q no ta apagando as py's.
+os.system('rm -rf agradecimentosm.py')
 
 os.system('rm -rf gpzpzp.py')
 
@@ -12,10 +14,8 @@ os.system("rm -rf '#comandos'")
 
 os.system('rm -rf #comandos')
 
-os.system('rm -rf git pull')
+os.system('git pull')
 
 os.system('clear')
 
-print('PRONTO, VERIFICAÇÃO DE ATUALIZAÇÃO FINALIZADA.')
-
-#BY AKTR:)
+print('PRONTINHO, VERIFICAÇÃO DE ATUALIZAÇÃO FINALIZADO, \nPODE PROSSEGUIR COM OS COMANDOS.')
