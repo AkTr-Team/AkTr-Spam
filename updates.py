@@ -1,25 +1,25 @@
-from sty import os
+import os
 from time import sleep
 import time
 
 
 #removendo os unzips pra atualizar
 #relaxa q no ta apagando as py's.
-sty.system('rm -rf agradecimentosm.py')
+os.system('rm -rf agradecimentosm.py')
 
-sty.system('rm -rf gpzpzp.py')
+os.system('rm -rf gpzpzp.py')
 
-sty.system('rm -rf info.py')
+os.system('rm -rf info.py')
 
-sty.system('rm -rf ss.py')
+os.system('rm -rf ss.py')
 
-sty.system("rm -rf '#comandos'")
+os.system("rm -rf '#comandos'")
 
-sty.system('rm -rf #comandos')
+os.system('rm -rf #comandos')
 
-sty.system('git pull');time.sleep(1)
+os.system('git pull');time.sleep(1)
 
-sty.system('clear');time.sleep(1)
+os.system('clear');time.sleep(1)
 
 message = ('VERIFICAÇÃO DE ATUALIZAÇÃO CONCLUÍDA :$')
 
